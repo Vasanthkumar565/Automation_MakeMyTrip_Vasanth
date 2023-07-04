@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.qa.makemytrip.Holidays_packages">
+        <methods>
+          <include name="Set_up"/>
+          <include name="pop_up_handle"/>
+          <include name="departure"/>
+          <include name="change_room_booking"/>
+          <include name="hotel_room_booking"/>
+        </methods>
+      </class> <!-- com.qa.makemytrip.Holidays_packages -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

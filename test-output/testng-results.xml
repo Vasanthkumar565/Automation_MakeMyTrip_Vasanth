@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-28T09:52:09 IST" name="Suite" finished-at="2023-06-28T09:54:12 IST" duration-ms="123133">
+    <groups>
+    </groups>
+    <test started-at="2023-06-28T09:52:09 IST" name="Test" finished-at="2023-06-28T09:54:12 IST" duration-ms="123133">
+      <class name="com.qa.makemytrip.Holidays_packages">
+        <test-method is-config="true" signature="Set_up()[pri:0, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:52:09 IST" name="Set_up" finished-at="2023-06-28T09:52:15 IST" duration-ms="5593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_up -->
+        <test-method signature="departure()[pri:0, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:52:15 IST" name="departure" finished-at="2023-06-28T09:52:37 IST" duration-ms="21652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- departure -->
+        <test-method signature="pop_up_handle()[pri:1, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:52:37 IST" name="pop_up_handle" finished-at="2023-06-28T09:52:55 IST" duration-ms="18504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pop_up_handle -->
+        <test-method signature="hotel_room_booking()[pri:2, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:52:55 IST" name="hotel_room_booking" finished-at="2023-06-28T09:53:23 IST" duration-ms="27995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotel_room_booking -->
+        <test-method signature="change_room_booking()[pri:3, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:53:23 IST" name="change_room_booking" finished-at="2023-06-28T09:53:25 IST" duration-ms="1369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- change_room_booking -->
+        <test-method signature="Add_activity()[pri:4, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:53:25 IST" name="Add_activity" finished-at="2023-06-28T09:53:43 IST" duration-ms="18923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_activity -->
+        <test-method signature="Activity_validate()[pri:5, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:53:43 IST" name="Activity_validate" finished-at="2023-06-28T09:53:43 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Activity_validate -->
+        <test-method signature="Selected_hotal_and_Activity_validate()[pri:6, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:53:43 IST" name="Selected_hotal_and_Activity_validate" finished-at="2023-06-28T09:54:12 IST" duration-ms="28576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Selected_hotal_and_Activity_validate -->
+        <test-method is-config="true" signature="end_test()[pri:0, instance:com.qa.makemytrip.Holidays_packages@1b7cc17c]" started-at="2023-06-28T09:54:12 IST" name="end_test" finished-at="2023-06-28T09:54:12 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end_test -->
+      </class> <!-- com.qa.makemytrip.Holidays_packages -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
